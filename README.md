@@ -19,6 +19,7 @@ Data Modeling Eatablished relationships between patients, diagnosos, and billing
 Dashboard & Visualization Design.
 
 ## Dashboard
+<img width="1331" height="727" alt="dashboard" src="https://github.com/user-attachments/assets/fce35786-adfb-4d04-a170-87f058d5ee85" />
 
 ## Final Conclusion
 This Power BI project successfully transforms raw hospital data into interactive and insightful dashboards. The analysis supports better decision-making in patient care, resource management, and financial tracking. By integrating clinical, operational, and financial data, the dashboard provides a holistic view of hospital performance. This project demonstrates the effective use of Power BI for healthcare analytics and highlights the importance of data-driven solutions in improving service quality and efficiency.
