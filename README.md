@@ -11,7 +11,7 @@ To assess overall patient feedback for doctors.
 <a href="">Health care dataset</a>
 
 ## Dashboard Interaction
-<a href="">View Dashboard</a>
+<a href="https://github.com/K-Thamilpiriya/Health-Care--Dashboard/blob/main/Health%20care.pbix">View Dashboard</a>
 
 ## Process
 Data Cleaning & Transformation that performed using Power Query.
