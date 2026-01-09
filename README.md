@@ -21,6 +21,14 @@ Dashboard & Visualization Design.
 ## Dashboard
 <img width="1331" height="727" alt="dashboard" src="https://github.com/user-attachments/assets/fce35786-adfb-4d04-a170-87f058d5ee85" />
 
+## Project Insights & Analysis
+* Patient-wise analysis enables quick access to individual medical and billing details.
+* Bed occupancy analysis highlights high-demand diagnoses, helping optimize hospital resources.
+* Doctor feedback analysis identifies top-performing doctors and areas for improvement.
+* Diagnosis-wise statistics reveal common illnesses and testing patterns.
+* Billing vs Insurance analysis shows gaps between expenses and insurance coverage, useful for financial planning.
+* Overall, the dashboard improves visibility into hospital operations and patient satisfaction.
+  
 ## Final Conclusion
 This Power BI project successfully transforms raw hospital data into interactive and insightful dashboards. The analysis supports better decision-making in patient care, resource management, and financial tracking. By integrating clinical, operational, and financial data, the dashboard provides a holistic view of hospital performance. This project demonstrates the effective use of Power BI for healthcare analytics and highlights the importance of data-driven solutions in improving service quality and efficiency.
 
